@@ -1,0 +1,11 @@
+<script type="text/javascript">
+$(document).ready(
+	function(){
+		$.jcorners("#container",{radius:10});
+	}
+);
+</script>
+
+
+
+http://jcorners.culturezoo.com/
